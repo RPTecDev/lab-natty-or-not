@@ -1,4 +1,5 @@
-Projeto Extremamente Aesthetic ;) - Um Minuto no Futuro das IAs Generativas 🎥
+#Projeto Extremamente Aesthetic ;) 
+##Um Minuto no Futuro das IAs Generativas 🎥
 
 📒 Descrição
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
