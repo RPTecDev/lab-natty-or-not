@@ -17,10 +17,10 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 
 ## 🚀 Resultados
 
- O vídeo é uma breve descrição de aplicação prática do mundo das IAs Generativas, destacando seu potencial transformador.
+ O vídeo é uma breve descrição de aplicação prática do mundo das IAs Generativas, destacando a facilidade de se usar isso no dia-a-dia.
 
 [Assista o vídeo](https://studio.d-id.com/share?id=0a27707fceff1a63e197cad1e5d1c742&utm_source=copy)
 
 ## 💭 Reflexão
 
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto foi uma experiência interessante como introdução as IAs, utilizando as IAs Generativas para mostrar um pouco desse universo cheio de oportunidades.
