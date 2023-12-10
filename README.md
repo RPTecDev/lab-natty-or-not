@@ -12,7 +12,7 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 
 ## 🧐 Processo de Criação
 
-- Usei o "ChatGPT" para montar parte do roetiro do vídeo.
+- Usei o "ChatGPT" para montar parte do roteiro do vídeo.
 - O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, utilizando um áudio com minha própria voz, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no próprio D-ID.
 
 ## 🚀 Resultados
